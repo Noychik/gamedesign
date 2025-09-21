@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":1,"equips":[2,0,55,3,0],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Назар","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[2,0,55,3,0],"faceIndex":2,"faceName":"SF_misc","traits":[],"initialLevel":20,"maxLevel":99,"name":"Назар","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"SF_Castle","classId":9,"equips":[1,0,0,9,0],"faceIndex":0,"faceName":"SF_castle_woman","traits":[],"initialLevel":2,"maxLevel":99,"name":"Фембой 1","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Actor1_3","characterIndex":1,"characterName":"SF_Castle","classId":9,"equips":[31,0,65,9,0],"faceIndex":1,"faceName":"SF_castle_woman","traits":[],"initialLevel":2,"maxLevel":99,"name":"Фембой 2","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor1_4","characterIndex":1,"characterName":"SF_Castle","classId":9,"equips":[31,0,0,9,0],"faceIndex":2,"faceName":"SF_castle_woman","traits":[],"initialLevel":2,"maxLevel":99,"name":"Фембой 3","nickname":"","note":"","profile":""},
