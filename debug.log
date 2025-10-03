@@ -13,3 +13,6 @@
 [1002/164425.672:ERROR:zip_reader.cc(132)] Cannot open ZIP from file handle 0000000000000214
 [1002/164425.686:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000214
 [1002/164425.686:ERROR:zip.cc(179)] Cannot open 'I:\roman\games\RPG Maker MZ\data\RepoUpdater\nwjs\package.nw': FILE_ERROR_NOT_FOUND: Не удается найти указанный файл. (0x2)
+[1003/125026.651:ERROR:zip_reader.cc(132)] Cannot open ZIP from file handle 0000000000000214
+[1003/125026.733:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000214
+[1003/125026.734:ERROR:zip.cc(179)] Cannot open 'I:\roman\games\RPG Maker MZ\data\RepoUpdater\nwjs\package.nw': FILE_ERROR_NOT_FOUND: Не удается найти указанный файл. (0x2)
