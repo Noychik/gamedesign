@@ -1,16 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"общая карта","order":1,"parentId":0,"scrollX":754,"scrollY":800.3333333333334},
-{"id":2,"expanded":true,"name":"мой дом","order":2,"parentId":1,"scrollX":549.3333333333334,"scrollY":312},
+{"id":1,"expanded":true,"name":"общая карта","order":1,"parentId":0,"scrollX":927,"scrollY":526.5},
+{"id":2,"expanded":true,"name":"мой дом","order":2,"parentId":1,"scrollX":939,"scrollY":514.5},
 {"id":3,"expanded":true,"name":"замок ромы главный зал","order":4,"parentId":1,"scrollX":549.3333333333334,"scrollY":504},
 {"id":4,"expanded":false,"name":"замок ромы тронный зал","order":5,"parentId":3,"scrollX":556.4444444444445,"scrollY":339.55555555555554},
 {"id":5,"expanded":false,"name":"Столовая","order":6,"parentId":3,"scrollX":549.3333333333334,"scrollY":312},
-{"id":6,"expanded":false,"name":"замок ромы подвал","order":7,"parentId":3,"scrollX":412,"scrollY":228.66666666666666},
-{"id":7,"expanded":false,"name":"Сикретвэй","order":3,"parentId":2,"scrollX":1138.6666666666667,"scrollY":425},
-{"id":8,"expanded":false,"name":"замок женщины подвал","order":10,"parentId":9,"scrollX":549.3333333333334,"scrollY":304.8888888888889},
-{"id":9,"expanded":true,"name":"замок женщины зал","order":9,"parentId":10,"scrollX":549.3333333333334,"scrollY":504},
-{"id":10,"expanded":true,"name":"замок женщины ориг","order":8,"parentId":1,"scrollX":1400.888888888889,"scrollY":312,"quick":false},
+{"id":6,"expanded":false,"name":"замок ромы подвал","order":7,"parentId":3,"scrollX":927,"scrollY":514.5},
+{"id":7,"expanded":false,"name":"Сикретвэй","order":3,"parentId":2,"scrollX":1138.5,"scrollY":526.5},
+{"id":8,"expanded":false,"name":"замок женщины подвал","order":10,"parentId":9,"scrollX":939,"scrollY":514.5},
+{"id":9,"expanded":true,"name":"замок женщины зал","order":9,"parentId":10,"scrollX":549.3333333333334,"scrollY":312},
+{"id":10,"expanded":true,"name":"замок женщины ориг","order":8,"parentId":1,"scrollX":1221,"scrollY":526.5,"quick":false},
 {"id":11,"expanded":false,"name":"замок женщины тронный зал","order":11,"parentId":9,"scrollX":549.3333333333334,"scrollY":408},
-{"id":12,"expanded":true,"name":"замок женщины по версии ромы","order":12,"parentId":10,"scrollX":2508.4444444444443,"scrollY":2265.777777777778,"quick":false},
-{"id":13,"expanded":true,"name":"Часовня","order":13,"parentId":12,"scrollX":549.3333333333334,"scrollY":304.8888888888889,"quick":false}
+{"id":12,"expanded":true,"name":"замок женщины по версии ромы","order":12,"parentId":10,"scrollX":2508,"scrollY":2266.5,"quick":false},
+{"id":13,"expanded":true,"name":"Часовня","order":13,"parentId":12,"scrollX":927,"scrollY":514.5,"quick":false}
 ]
