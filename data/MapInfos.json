@@ -14,7 +14,7 @@ null,
 {"id":12,"expanded":true,"name":"замок женщины по версии ромы","order":12,"parentId":10,"scrollX":2501.3333333333335,"scrollY":2347.6666666666665,"quick":false},
 {"id":13,"expanded":true,"name":"Часовня","order":13,"parentId":12,"scrollX":754,"scrollY":419.6666666666667,"quick":false},
 {"id":14,"expanded":true,"name":"лифт","order":14,"parentId":1,"scrollX":754,"scrollY":425,"quick":false},
-{"id":15,"expanded":false,"name":"былые дни","order":15,"parentId":14,"scrollX":902,"scrollY":419.6666666666667,"quick":false},
+{"id":15,"expanded":false,"name":"былые дни","order":15,"parentId":14,"scrollX":902,"scrollY":425,"quick":false},
 {"id":16,"expanded":false,"name":"максим","order":16,"parentId":14,"scrollX":759.3333333333334,"scrollY":419.6666666666667,"quick":false},
 {"id":17,"expanded":false,"name":"Пирамида","order":17,"parentId":14,"scrollX":754,"scrollY":425,"quick":false}
 ]
